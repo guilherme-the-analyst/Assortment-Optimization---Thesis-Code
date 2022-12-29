@@ -1,0 +1,1304 @@
+,ID Curvecatch,ProductID,Vendor,Color,Size,VariantID,Variant Barcode,Price,Cost,Model Type,Color Cluster,Vendor Group,Price Tier
+0,660,#001,Fantasie,Beige,F75,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+1,659,#002,Fantasie,Beige,F80,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+2,661,#003,Fantasie,Beige,D85,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+3,662,#004,Fantasie,Beige,D90,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+4,654,#005,Fantasie,White,E75,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+5,657,#006,Fantasie,White,F75,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+6,650,#007,Fantasie,White,D80,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+7,653,#008,Fantasie,White,E80,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+8,656,#009,Fantasie,White,F80,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+9,651,#010,Fantasie,White,D85,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+10,655,#011,Fantasie,White,F85,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+11,652,#012,Fantasie,White,D90,FL2024,8.86E+11,64,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+12,1111,#013,Fantasie,Black,E75,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+13,1115,#014,Fantasie,Black,F75,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+14,1117,#015,Fantasie,Black,G75,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+15,1114,#016,Fantasie,Black,F80,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+16,1110,#017,Fantasie,Black,E85,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+17,1113,#018,Fantasie,Black,F85,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+18,1108,#019,Fantasie,Black,D90,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+19,1109,#020,Fantasie,Black,E90,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+20,1112,#021,Fantasie,Black,F90,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+21,1116,#022,Fantasie,Black,G90,FL2024,8.86E+11,65.95,25.6,Bralette,Permanent,Wacoal Group,Medium Tier
+22,1076,#023,Elomi,Black,J70,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+23,1080,#024,Elomi,Black,M70,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+24,1075,#025,Elomi,Black,J75,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+25,1079,#026,Elomi,Black,M75,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+26,1059,#027,Elomi,Black,E80,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+27,1081,#028,Elomi,Black,G80,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+28,1083,#029,Elomi,Black,H80,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+29,1071,#030,Elomi,Black,I80,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+30,1082,#031,Elomi,Black,H85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+31,1072,#032,Elomi,Black,I85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+32,1074,#033,Elomi,Black,J85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+33,1078,#034,Elomi,Black,M85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+34,1062,#035,Elomi,Black,F90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+35,1068,#036,Elomi,Black,H90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+36,1067,#037,Elomi,Black,H95,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+37,1092,#038,Elomi,Beige,J70,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+38,1090,#039,Elomi,Beige,J80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+39,1093,#040,Elomi,Beige,K80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+40,1097,#041,Elomi,Beige,M80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+41,1088,#042,Elomi,Beige,E85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+42,1086,#043,Elomi,Beige,F85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+43,1094,#044,Elomi,Beige,K85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+44,1096,#045,Elomi,Beige,L85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+45,1089,#046,Elomi,Beige,H90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+46,1091,#047,Elomi,Beige,J90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+47,1095,#048,Elomi,Beige,K90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+48,1087,#049,Elomi,Beige,E105,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+49,1105,#050,Elomi,Red,M70,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+50,1100,#051,Elomi,Red,M90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+51,1052,#052,Elomi,White,J70,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+52,1055,#053,Elomi,White,L70,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+53,1050,#054,Elomi,White,I75,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+54,1053,#055,Elomi,White,K75,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+55,1051,#056,Elomi,White,J80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+56,1049,#057,Elomi,White,E90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+57,1054,#058,Elomi,White,K95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+58,1248,#059,Elomi,Purple,M85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+59,1101,#060,Elomi,Red,N90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+60,1106,#061,Elomi,Red,E95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+61,1099,#062,Elomi,Red,J95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+62,1102,#063,Elomi,Red,K95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+63,1103,#064,Elomi,Red,L95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+64,1104,#065,Elomi,Red,G100,EL8900,8.90E+11,59.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+65,596,#066,Elomi,Rose,I75,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+66,607,#067,Elomi,Rose,I80,EL8900,8.90E+11,60.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+67,608,#068,Elomi,Rose,J80,EL8900,8.90E+11,60.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+68,599,#069,Elomi,Rose,F85,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+69,606,#070,Elomi,Rose,I85,EL8900,8.90E+11,60.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+70,597,#071,Elomi,Rose,E90,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+71,601,#072,Elomi,Rose,G95,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+72,598,#073,Elomi,Rose,E100,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+73,600,#074,Elomi,Rose,F100,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+74,1073,#075,Elomi,Black,I75,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+75,1077,#076,Elomi,Black,K75,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+76,1066,#077,Elomi,Black,G85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+77,1069,#078,Elomi,Black,H85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+78,1085,#079,Elomi,Black,J85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+79,1058,#080,Elomi,Black,E90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+80,1065,#081,Elomi,Black,G90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+81,1070,#082,Elomi,Black,I90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+82,1057,#083,Elomi,Black,E95,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+83,1061,#084,Elomi,Black,F95,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+84,1064,#085,Elomi,Black,G95,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+85,1060,#086,Elomi,Black,E100,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+86,1063,#087,Elomi,Black,F100,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+87,695,#088,Wacoal,Black,D70,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+88,689,#089,Wacoal,Black,E70,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+89,687,#090,Wacoal,Black,B75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+90,690,#091,Wacoal,Black,C75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+91,694,#092,Wacoal,Black,D75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+92,688,#093,Wacoal,Black,E75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+93,691,#094,Wacoal,Black,C80,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+94,696,#095,Wacoal,Black,D80,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+95,692,#096,Wacoal,Black,C85,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+96,578,#097,Elomi,Black,I75,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+97,592,#098,Elomi,Black,G80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+98,584,#099,Elomi,Black,H80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+99,579,#100,Elomi,Black,I80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+100,56,#101,Marie Jo LAventure,Red,B90,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+101,57,#102,Marie Jo LAventure,Red,C90,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+102,58,#103,Marie Jo LAventure,Red,D90,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+103,230,#104,PrimaDonna,Ivory,F85,161811,5.42E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+104,398,#105,PrimaDonna,Ivory,D75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+105,399,#106,PrimaDonna,Ivory,E75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+106,400,#107,PrimaDonna,Ivory,F75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+107,401,#108,PrimaDonna,Ivory,G80,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+108,166,#109,PrimaDonna,Beige,G85,262121,5.42E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+109,515,#110,PrimaDonna,Black,C80,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+110,590,#111,Elomi,Black,F85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+111,516,#112,PrimaDonna,Black,E65,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+112,517,#113,PrimaDonna,Black,G65,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+113,518,#114,PrimaDonna,Black,G70,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+114,519,#115,PrimaDonna,Black,F75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+115,520,#116,PrimaDonna,Black,G75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+116,521,#117,PrimaDonna,Black,G80,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+117,522,#118,PrimaDonna,Black,F85,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+118,523,#119,PrimaDonna,Black,G85,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+119,524,#120,PrimaDonna,Black,F90,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+120,525,#121,PrimaDonna,Black,G90,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+121,585,#122,Elomi,Black,H85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+122,168,#123,PrimaDonna,Red,D75,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+123,173,#124,PrimaDonna,Red,D85,262121,5.42E+12,88.95,34.76,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+124,169,#125,PrimaDonna,Red,E70,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+125,171,#126,PrimaDonna,Red,F80,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+126,172,#127,PrimaDonna,Red,G90,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+127,170,#128,PrimaDonna,Red,E95,262121,5.42E+12,88.95,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+128,175,#129,PrimaDonna,White,C85,262121,5.42E+12,59.95,23.98,Heart Shaped  ,Permanent,Van De Velde Group,Medium Tier
+129,403,#130,PrimaDonna,Rose,D65,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+130,418,#131,PrimaDonna,Rose,C75,262659,5.42E+12,89.9,35.96,Strapless  ,Fashion,Van De Velde Group,High Tier
+131,404,#132,PrimaDonna,Rose,D75,262659,5.42E+12,89.9,27.6,Strapless  ,Fashion,Van De Velde Group,High Tier
+132,580,#133,Elomi,Black,I85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+133,407,#134,PrimaDonna,Rose,C80,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+134,419,#135,PrimaDonna,Rose,D80,262659,5.42E+12,89.9,35.96,Strapless  ,Fashion,Van De Velde Group,High Tier
+135,408,#136,PrimaDonna,Rose,C85,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+136,405,#137,PrimaDonna,Rose,D85,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+137,409,#138,PrimaDonna,Rose,C90,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+138,406,#139,PrimaDonna,Rose,D90,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+139,410,#140,PrimaDonna,Rose,C95,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+140,420,#141,PrimaDonna,Rose,D95,262659,5.42E+12,89.9,35.96,Strapless  ,Fashion,Van De Velde Group,High Tier
+141,411,#142,PrimaDonna,Rose,E75,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+142,414,#143,PrimaDonna,Rose,F75,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+143,581,#144,Elomi,Black,J85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+144,421,#145,PrimaDonna,Rose,E80,262659,5.42E+12,89.9,35.96,Strapless  ,Fashion,Van De Velde Group,High Tier
+145,417,#146,PrimaDonna,Rose,G80,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+146,412,#147,PrimaDonna,Rose,E85,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+147,415,#148,PrimaDonna,Rose,F85,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+148,423,#149,PrimaDonna,Rose,G85,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+149,413,#150,PrimaDonna,Rose,E90,262659,5.42E+12,89.9,35.96,Strapless  ,Fashion,Van De Velde Group,High Tier
+150,416,#151,PrimaDonna,Rose,F90,262659,5.42E+12,89.9,37.46,Strapless  ,Fashion,Van De Velde Group,High Tier
+151,424,#152,PrimaDonna,Black,D70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+152,425,#153,PrimaDonna,Black,C75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+153,426,#154,PrimaDonna,Black,D75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+154,591,#155,Elomi,Black,F90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+155,427,#156,PrimaDonna,Black,C90,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+156,428,#157,PrimaDonna,Black,C95,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+157,429,#158,PrimaDonna,Black,F65,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+158,430,#159,PrimaDonna,Black,G65,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+159,440,#160,PrimaDonna,Black,E70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+160,431,#161,PrimaDonna,Black,F70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+161,432,#162,PrimaDonna,Black,G70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+162,442,#163,PrimaDonna,Black,E75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+163,433,#164,PrimaDonna,Black,G75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+164,434,#165,PrimaDonna,Black,F80,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+165,588,#166,Elomi,Black,G90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+166,435,#167,PrimaDonna,Black,G80,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+167,436,#168,PrimaDonna,Black,F85,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+168,437,#169,PrimaDonna,Black,G85,262659,5.42E+12,89.9,35.96,Strapless  ,Permanent,Van De Velde Group,High Tier
+169,439,#170,PrimaDonna,Black,E90,262659,5.42E+12,89.9,35.96,Strapless  ,Permanent,Van De Velde Group,High Tier
+170,441,#171,PrimaDonna,Black,F90,262659,5.42E+12,89.9,35.96,Strapless  ,Permanent,Van De Velde Group,High Tier
+171,7,#172,Marie Jo,Red,C65,100416,5.42E+12,84.9,35.4,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+172,241,#173,PrimaDonna,Ivory,D105,161811,5.42E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+173,263,#174,PrimaDonna,Black,D105,161811,5.42E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+174,177,#175,PrimaDonna,Beige,D65,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+175,178,#176,PrimaDonna,Beige,D70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+176,586,#177,Elomi,Black,H90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+177,179,#178,PrimaDonna,Beige,C85,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+178,180,#179,PrimaDonna,Beige,C90,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+179,181,#180,PrimaDonna,Beige,F70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+180,183,#181,PrimaDonna,Beige,G70,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+181,182,#182,PrimaDonna,Beige,F75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+182,185,#183,PrimaDonna,Beige,G75,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+183,184,#184,PrimaDonna,Beige,G85,262659,5.42E+12,89.9,37.46,Strapless  ,Permanent,Van De Velde Group,High Tier
+184,186,#185,PrimaDonna,Beige,E95,262659,5.42E+12,89.9,35.96,Strapless  ,Permanent,Van De Velde Group,High Tier
+185,791,#186,Lisca,Red,D70,20228,5.42E+12,42.9,26.38,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+186,73,#187,PrimaDonna Twist,Beige,D90,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+187,582,#188,Elomi,Black,I90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+188,74,#189,PrimaDonna Twist,Beige,D95,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+189,75,#190,PrimaDonna Twist,Beige,F95,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+190,82,#191,PrimaDonna Twist,Black,E70,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+191,83,#192,PrimaDonna Twist,Black,E75,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+192,77,#193,PrimaDonna Twist,Red,D75,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+193,78,#194,PrimaDonna Twist,Red,D90,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+194,79,#195,PrimaDonna Twist,Red,D95,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+195,80,#196,PrimaDonna Twist,Red,G75,141601,5.42E+12,84.9,35.38,Full Cup  ,Permanent,Van De Velde Group,High Tier
+196,306,#197,PrimaDonna,Red,D75,162121,5.42E+12,86.9,23.8,Full Cup  ,Permanent,Van De Velde Group,High Tier
+197,213,#198,Marie Jo LAventure,Red,C70,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+198,589,#199,Elomi,Black,J90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+199,214,#200,Marie Jo LAventure,Red,D70,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+200,215,#201,Marie Jo LAventure,Red,D75,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+201,216,#202,Marie Jo LAventure,Red,E75,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+202,217,#203,Marie Jo LAventure,Red,D80,121896,5.42E+12,79.9,31.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+203,221,#204,Marie Jo LAventure,Red,E80,121896,5.42E+12,79.9,22.4,Plunge  ,Permanent,Van De Velde Group,High Tier
+204,218,#205,Marie Jo LAventure,Red,C85,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+205,219,#206,Marie Jo LAventure,Red,D85,121896,5.42E+12,79.9,33.29,Plunge  ,Permanent,Van De Velde Group,High Tier
+206,220,#207,Marie Jo LAventure,Red,D90,121896,5.42E+12,79.9,22.4,Plunge  ,Permanent,Van De Velde Group,High Tier
+207,265,#208,PrimaDonna,Black,E75,161811,5.42E+12,99.9,26.2,Full Cup  ,Permanent,Van De Velde Group,High Tier
+208,279,#209,PrimaDonna,Black,J75,161811,5.42E+12,99.9,27.2,Full Cup  ,Permanent,Van De Velde Group,High Tier
+209,593,#210,Elomi,Black,F95,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+210,330,#211,PrimaDonna,Black,D75,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+211,352,#212,PrimaDonna,Black,E75,163181,5.42E+12,89.9,35.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+212,331,#213,PrimaDonna,Black,D80,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+213,336,#214,PrimaDonna,Black,E80,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+214,340,#215,PrimaDonna,Black,C85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+215,332,#216,PrimaDonna,Black,D85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+216,337,#217,PrimaDonna,Black,E85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+217,341,#218,PrimaDonna,Black,C90,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+218,333,#219,PrimaDonna,Black,D90,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+219,342,#220,PrimaDonna,Black,C95,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+220,587,#221,Elomi,Black,G95,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+221,334,#222,PrimaDonna,Black,D95,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+222,338,#223,PrimaDonna,Black,E95,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+223,343,#224,PrimaDonna,Black,C100,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+224,335,#225,PrimaDonna,Black,D100,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+225,339,#226,PrimaDonna,Black,E100,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+226,345,#227,PrimaDonna,Black,H70,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+227,346,#228,PrimaDonna,Black,F75,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+228,349,#229,PrimaDonna,Black,G80,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+229,358,#230,PrimaDonna,Black,H80,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+230,355,#231,PrimaDonna,Black,F85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+231,583,#232,Elomi,Black,H95,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+232,350,#233,PrimaDonna,Black,G85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+233,356,#234,PrimaDonna,Black,H85,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+234,347,#235,PrimaDonna,Black,F90,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+235,351,#236,PrimaDonna,Black,G90,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+236,357,#237,PrimaDonna,Black,H90,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+237,348,#238,PrimaDonna,Black,F95,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+238,353,#239,PrimaDonna,Black,G95,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+239,344,#240,PrimaDonna,Black,H100,163181,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+240,197,#241,Marie Jo,Black,C70,100416,5.42E+12,94.9,37.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+241,199,#242,Marie Jo,Black,A75,100416,5.42E+12,94.9,37.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+242,595,#243,Elomi,Black,I100,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+243,194,#244,Marie Jo,Black,D75,100416,5.42E+12,94.9,26.6,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+244,192,#245,Marie Jo,Black,E75,100416,5.42E+12,94.9,26.6,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+245,196,#246,Marie Jo,Black,D85,100416,5.42E+12,94.9,26.6,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+246,48,#247,Marie Jo LAventure,Beige,A70,120826,5.42E+12,63.95,31.21,Heart Shaped  ,Permanent,Van De Velde Group,Medium Tier
+247,1194,#248,Marie Jo LAventure,Ivory,A75,120826,5.42E+12,79.9,31.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+248,476,#249,PrimaDonna,Black,H85,162121,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+249,479,#250,PrimaDonna,Black,I85,162121,5.42E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+250,526,#251,PrimaDonna,Black,D90,262121,5.42E+12,88.95,37.46,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+251,527,#252,PrimaDonna,Black,E70,262121,5.42E+12,88.95,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+252,528,#253,PrimaDonna,Black,E80,262121,5.42E+12,88.95,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+253,645,#254,Elomi,White,I75,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+254,529,#255,PrimaDonna,Black,F80,262121,5.42E+12,88.95,37.46,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+255,530,#256,PrimaDonna,Black,E85,262121,5.42E+12,88.95,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+256,359,#257,PrimaDonna Twist,Black,E70,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+257,360,#258,PrimaDonna Twist,Black,F70,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+258,361,#259,PrimaDonna Twist,Black,G70,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+259,362,#260,PrimaDonna Twist,Black,D75,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+260,363,#261,PrimaDonna Twist,Black,E75,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+261,375,#262,PrimaDonna Twist,Black,D80,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+262,364,#263,PrimaDonna Twist,Black,E80,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+263,365,#264,PrimaDonna Twist,Black,F80,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+264,646,#265,Elomi,White,J75,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+265,366,#266,PrimaDonna Twist,Black,G80,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+266,367,#267,PrimaDonna Twist,Black,D85,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+267,368,#268,PrimaDonna Twist,Black,E85,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+268,369,#269,PrimaDonna Twist,Black,F85,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+269,370,#270,PrimaDonna Twist,Black,D90,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+270,371,#271,PrimaDonna Twist,Black,E90,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+271,372,#272,PrimaDonna Twist,Black,F90,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+272,373,#273,PrimaDonna Twist,Black,C95,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+273,374,#274,PrimaDonna Twist,Black,D95,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+274,377,#275,PrimaDonna Twist,Black,E95,241882,5.42E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+275,635,#276,Elomi,White,G80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+276,257,#277,PrimaDonna,Beige,F80,161811,5.42E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+277,1335,#278,Femilet,Black,B90,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+278,1325,#279,Femilet,Black,E70,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+279,1323,#280,Femilet,Black,E75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+280,1324,#281,Femilet,Black,E80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+281,1328,#282,Femilet,Black,F75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+282,1329,#283,Femilet,Black,F80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+283,1349,#284,Femilet,Black,G70,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+284,1327,#285,Femilet,Black,G75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+285,1744,#286,Femilet,Beige,B90,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+286,636,#287,Elomi,White,H80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+287,1773,#288,Femilet,Beige,C75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+288,1332,#289,Femilet,Black,C80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+289,1769,#290,Femilet,Beige,C80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+290,1333,#291,Femilet,Black,C85,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+291,1775,#292,Femilet,Beige,C85,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+292,1776,#293,Femilet,Beige,C90,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+293,1771,#294,Femilet,Beige,D70,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+294,1747,#295,Femilet,Beige,D80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+295,1770,#296,Femilet,Beige,D90,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+296,1768,#297,Femilet,Beige,E70,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+297,639,#298,Elomi,White,I80,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+298,1742,#299,Femilet,Beige,E75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+299,1743,#300,Femilet,Beige,E80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+300,1741,#301,Femilet,Beige,E85,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+301,1777,#302,Femilet,Beige,F70,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+302,1748,#303,Femilet,Beige,F80,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+303,1774,#304,Femilet,Beige,G75,F94260,5.71E+12,58,23.2,Full Cup  ,Permanent,Chantelle Group,Medium Tier
+304,824,#305,Triumph,White,A90,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+305,823,#306,Triumph,White,A95,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+306,826,#307,Triumph,White,B95,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+307,830,#308,Triumph,White,C90,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+308,648,#309,Elomi,White,J80,EL8080,8.90E+11,59.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+309,829,#310,Triumph,White,C95,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+310,832,#311,Triumph,White,D90,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+311,833,#312,Triumph,White,D95,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+312,835,#313,Triumph,White,E90,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+313,845,#314,Triumph,Black,A90,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+314,843,#315,Triumph,Black,A95,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+315,848,#316,Triumph,Black,B90,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+316,846,#317,Triumph,Black,B95,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+317,851,#318,Triumph,Black,C90,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+318,849,#319,Triumph,Black,C95,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+319,633,#320,Elomi,White,F85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+320,855,#321,Triumph,Black,D90,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+321,853,#322,Triumph,Black,D95,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+322,859,#323,Triumph,Black,E90,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+323,825,#324,Triumph,White,B85,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+324,828,#325,Triumph,White,C80,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+325,831,#326,Triumph,White,C85,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+326,834,#327,Triumph,White,D85,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+327,837,#328,Triumph,White,E75,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+328,836,#329,Triumph,White,E80,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+329,840,#330,Triumph,White,F70,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+330,634,#331,Elomi,White,G85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+331,839,#332,Triumph,White,F75,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+332,838,#333,Triumph,White,F80,10166798,7.61E+12,49.95,19.98, Balconette  ,Permanent,,Low Tier
+333,885,#334,Triumph,Black,A80,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+334,844,#335,Triumph,Black,A85,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+335,847,#336,Triumph,Black,B85,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+336,852,#337,Triumph,Black,C80,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+337,850,#338,Triumph,Black,C85,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+338,857,#339,Triumph,Black,D75,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+339,856,#340,Triumph,Black,D80,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+340,854,#341,Triumph,Black,D85,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+341,637,#342,Elomi,White,H85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+342,862,#343,Triumph,Black,E70,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+343,861,#344,Triumph,Black,E75,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+344,860,#345,Triumph,Black,E80,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+345,858,#346,Triumph,Black,E85,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+346,863,#347,Triumph,Black,F70,10166798,7.61E+12,49.95,19.98,Balconette  ,Permanent,,Low Tier
+347,610,#348,Triumph,Blue,D85,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+348,889,#349,Triumph,Green,C80,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+349,890,#350,Triumph,Green,D70,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+350,893,#351,Triumph,Green,E65,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+351,895,#352,Triumph,Green,F65,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+352,638,#353,Elomi,White,I85,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+353,894,#354,Triumph,Green,F70,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+354,1706,#355,Triumph,Green Blue,A85,10166798,7.61E+12,44.95,19.98, Balconette  ,Fashion,,Low Tier
+355,1707,#356,Triumph,Green Blue,A90,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+356,1717,#357,Triumph,Green Blue,A95,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+357,1722,#358,Triumph,Green Blue,B80,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+358,1714,#359,Triumph,Green Blue,B85,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+359,1724,#360,Triumph,Green Blue,B90,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+360,1721,#361,Triumph,Green Blue,B95,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+361,1708,#362,Triumph,Green Blue,C75,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+362,1720,#363,Triumph,Green Blue,C80,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+363,643,#364,Elomi,White,F90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+364,1713,#365,Triumph,Green Blue,C85,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+365,1725,#366,Triumph,Green Blue,C95,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+366,1704,#367,Triumph,Green Blue,D70,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+367,1710,#368,Triumph,Green Blue,D75,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+368,1711,#369,Triumph,Green Blue,D80,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+369,1712,#370,Triumph,Green Blue,D85,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+370,1723,#371,Triumph,Green Blue,D90,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+371,1709,#372,Triumph,Green Blue,D95,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+372,1729,#373,Triumph,Green Blue,E70,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+373,1716,#374,Triumph,Green Blue,E75,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+374,644,#375,Elomi,White,G90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+375,1719,#376,Triumph,Green Blue,E80,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+376,1718,#377,Triumph,Green Blue,E85,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+377,1726,#378,Triumph,Green Blue,E90,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+378,1727,#379,Triumph,Green Blue,F70,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+379,1728,#380,Triumph,Green Blue,F75,10166798,7.61E+12,49.95,19.98, Balconette  ,Fashion,,Low Tier
+380,613,#381,Triumph,Blue,B95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+381,612,#382,Triumph,Blue,C95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+382,614,#383,Triumph,Blue,D95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+383,901,#384,Triumph,Green,B95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+384,896,#385,Triumph,Green,C85,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+385,649,#386,Elomi,White,H90,EL8080,8.90E+11,59.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+386,905,#387,Triumph,Green,C90,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+387,902,#388,Triumph,Green,C95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+388,891,#389,Triumph,Green,D85,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+389,904,#390,Triumph,Green,D90,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+390,899,#391,Triumph,Green,D95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+391,900,#392,Triumph,Green,E70,10201686,7.61E+12,54.9,21.98,Spacer  ,Fashion,,Medium Tier
+392,898,#393,Triumph,Green,E75,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+393,906,#394,Triumph,Green,E80,10201686,7.61E+12,54.9,21.98,Spacer  ,Fashion,,Medium Tier
+394,892,#395,Triumph,Green,E85,10201686,7.61E+12,54.9,21.98,Spacer  ,Fashion,,Medium Tier
+395,903,#396,Triumph,Green,E90,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+396,640,#397,Elomi,White,I90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+397,897,#398,Triumph,Green,E95,10201686,7.61E+12,54.95,21.98,Spacer  ,Fashion,,Medium Tier
+398,1031,#399,Selene,Black,D75,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+399,1032,#400,Selene,Black,D80,307,8.43E+12,36,13,Heart Shaped  ,Permanent,,Low Tier
+400,1039,#401,Selene,Black,D90,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+401,1038,#402,Selene,Black,D95,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+402,618,#403,Selene,Beige,D75,307,8.43E+12,36,13, Heart Shaped  ,Permanent,,Low Tier
+403,619,#404,Selene,Beige,D80,307,8.43E+12,36,14, Heart Shaped  ,Permanent,,Low Tier
+404,625,#405,Selene,Ivory,D80,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+405,621,#406,Selene,Beige,D85,307,8.43E+12,36,14, Heart Shaped  ,Permanent,,Low Tier
+406,620,#407,Selene,Beige,D90,307,8.43E+12,36,14, Heart Shaped  ,Permanent,,Low Tier
+407,641,#408,Elomi,White,J90,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+408,626,#409,Selene,Ivory,D90,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+409,630,#410,Selene,Ivory,D70,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+410,615,#411,Selene,White,D75,307,8.43E+12,36,13, Heart Shaped  ,Permanent,,Low Tier
+411,624,#412,Selene,Ivory,D75,307,8.43E+12,36,13,Heart Shaped  ,Permanent,,Low Tier
+412,623,#413,Selene,Ivory,D80,307,8.43E+12,36,13,Heart Shaped  ,Permanent,,Low Tier
+413,616,#414,Selene,White,D85,307,8.43E+12,36,14, Heart Shaped  ,Permanent,,Low Tier
+414,628,#415,Selene,Ivory,D90,307,8.43E+12,36,13,Heart Shaped  ,Permanent,,Low Tier
+415,629,#416,Selene,Ivory,D95,307,8.43E+12,36,13,Heart Shaped  ,Permanent,,Low Tier
+416,817,#417,Selene,Beige,C95,307,8.43E+12,36,13, Heart Shaped  ,Permanent,,Low Tier
+417,819,#418,Selene,Beige,D90,32,8.43E+12,29.5,11.8,Spacer  ,Permanent,,Low Tier
+418,642,#419,Elomi,White,I95,EL8080,8.90E+11,60.95,23.98,Full Cup  ,Permanent,Wacoal Group,Medium Tier
+419,1047,#420,Selene,Rose,D95,32,8.43E+12,36,14,Bralette,Fashion,,Low Tier
+420,1036,#421,Selene,Black,D100,307,8.43E+12,36,14,Heart Shaped  ,Permanent,,Low Tier
+421,1045,#422,Selene,White,D80,32,8.43E+12,29.5,14,Bralette,Permanent,,Low Tier
+422,1043,#423,Selene,White,D90,32,8.43E+12,29.5,11.8,Bralette,Permanent,,Low Tier
+423,1044,#424,Selene,White,D95,32,8.43E+12,29.5,11.8,Bralette,Permanent,,Low Tier
+424,631,#425,Selene,Blue,D75,32,8.43E+12,36,14,Spacer  ,Fashion,,Low Tier
+425,1041,#426,Selene,Gray,D75,32,8.43E+12,36,14,Spacer  ,Fashion,,Low Tier
+426,1040,#427,Selene,Gray,D95,32,8.43E+12,36,11.8,Spacer  ,Fashion,,Low Tier
+427,1430,#428,Sapph,Black,B85,2020120,8.72E+12,49.95,19.98,Push Up  ,Permanent,,Low Tier
+428,1431,#429,Sapph,Black,C85,2020120,8.72E+12,49.95,19.98,Push Up  ,Permanent,,Low Tier
+429,602,#430,Elomi,Rose,G85,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+430,1434,#431,Sapph,Red,D75,2020120,8.72E+12,43.2,17.28,Push Up  ,Permanent,,Low Tier
+431,1433,#432,Sapph,Red,C80,2020120,8.72E+12,43.2,17.28,Push Up  ,Permanent,,Low Tier
+432,1435,#433,Sapph,Red,E80,2020120,8.72E+12,43.2,17.28,Push Up  ,Permanent,,Low Tier
+433,300,#434,PrimaDonna,Ivory,E100,162120,5.41E+13,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+434,603,#435,Elomi,Rose,H85,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+435,604,#436,Elomi,Rose,H90,EL8900,8.90E+11,59.95,23.98,Full Cup  ,Fashion,Wacoal Group,Medium Tier
+436,1204,#437,Elomi,Gray,I75,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+437,1208,#438,Elomi,Gray,J75,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+438,1211,#439,Elomi,Gray,K75,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+439,1246,#440,Elomi,Purple,G80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+440,1205,#441,Elomi,Gray,I80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+441,1212,#442,Elomi,Gray,K80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+442,1214,#443,Elomi,Gray,L80,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+443,1239,#444,Elomi,Purple,E85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+444,1242,#445,Elomi,Purple,F85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+445,1245,#446,Elomi,Purple,G85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+446,1206,#447,Elomi,Gray,I85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+447,1209,#448,Elomi,Gray,J85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+448,1213,#449,Elomi,Gray,K85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+449,1215,#450,Elomi,Gray,L85,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+450,1199,#451,Elomi,Gray,E90,EL8900,8.90E+11,59.95,23.82,Plunge  ,Fashion,Wacoal Group,Medium Tier
+451,1241,#452,Elomi,Purple,F90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+452,1203,#453,Elomi,Gray,H90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+453,1207,#454,Elomi,Gray,I90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+454,1210,#455,Elomi,Gray,J90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+455,1216,#456,Elomi,Gray,L90,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+456,1198,#457,Elomi,Gray,E95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+457,1243,#458,Elomi,Purple,F95,EL8900,8.90E+11,59.95,22.38,Plunge  ,Fashion,Wacoal Group,Medium Tier
+458,1200,#459,Elomi,Gray,G95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+459,1202,#460,Elomi,Gray,H95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+460,1247,#461,Elomi,Purple,K95,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+461,1240,#462,Elomi,Purple,E100,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+462,1244,#463,Elomi,Purple,F100,EL8900,8.90E+11,59.95,22.38,Plunge  ,Fashion,Wacoal Group,Medium Tier
+463,1201,#464,Elomi,Gray,G100,EL8900,8.90E+11,59.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+464,1250,#465,Elomi,Purple,E90,EL8900,8.90E+11,60.95,23.98,Plunge  ,Fashion,Wacoal Group,Medium Tier
+465,1186,#466,Wacoal,White,B75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+466,1184,#467,Wacoal,White,C75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+467,1188,#468,Wacoal,White,D75,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+468,1187,#469,Wacoal,White,B80,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+469,1190,#470,Wacoal,White,C80,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+470,1189,#471,Wacoal,White,B85,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+471,1185,#472,Wacoal,White,C85,WE148003,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+472,1668,#473,Wacoal,Black,B75,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+473,1667,#474,Wacoal,Black,B80,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+474,1665,#475,Wacoal,Black,C80,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+475,1662,#476,Wacoal,Black,D70,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+476,1664,#477,Wacoal,Black,D75,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+477,1663,#478,Wacoal,Black,D80,WE600502,8.90E+11,65,25.6,Push Up  ,Permanent,Wacoal Group,Medium Tier
+478,1620,#479,Elomi,Beige,J85,EL8900,8.90E+11,60.95,23.98,Plunge  ,Permanent,Wacoal Group,Medium Tier
+479,1579,#480,Freya,Red,F70,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+480,1578,#481,Freya,Red,G70,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+481,1576,#482,Freya,Red,H70,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+482,1590,#483,Freya,Red,I70,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+483,1577,#484,Freya,Red,F75,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+484,1580,#485,Freya,Red,G75,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+485,1588,#486,Freya,Red,H75,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+486,1583,#487,Freya,Red,E80,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+487,1575,#488,Freya,Red,F80,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+488,1582,#489,Freya,Red,G80,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+489,1589,#490,Freya,Red,H80,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+490,1584,#491,Freya,Red,D85,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+491,1581,#492,Freya,Red,E85,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+492,1585,#493,Freya,Red,F85,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+493,1586,#494,Freya,Red,G85,AA400502,8.90E+11,47.95,19.2,Full Cup  ,Permanent,Wacoal Group,Low Tier
+494,686,#495,Passionata,Ivory,B70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+495,665,#496,Passionata,Ivory,B75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+496,664,#497,Passionata,Ivory,B80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+497,685,#498,Passionata,Ivory,C65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+498,666,#499,Passionata,Ivory,C70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+499,681,#500,Passionata,Ivory,C75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+500,677,#501,Passionata,Ivory,C80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+501,673,#502,Passionata,Ivory,C90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+502,667,#503,Passionata,Ivory,D65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+503,678,#504,Passionata,Ivory,D70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+504,676,#505,Passionata,Ivory,D75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+505,680,#506,Passionata,Ivory,D80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+506,674,#507,Passionata,Ivory,D85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+507,684,#508,Passionata,Ivory,D90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+508,675,#509,Passionata,Ivory,E70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+509,683,#510,Passionata,Ivory,E80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+510,669,#511,Passionata,Ivory,F75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+511,668,#512,Passionata,Ivory,F85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+512,671,#513,Passionata,Ivory,G75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+513,1647,#514,Passionata,Ivory,G80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+514,670,#515,Passionata,Ivory,F65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+515,672,#516,Passionata,Ivory,G65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+516,1163,#517,Passionata,Black,B70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+517,1164,#518,Passionata,Black,B75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+518,1137,#519,Passionata,Black,B80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+519,1136,#520,Passionata,Black,B85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+520,1139,#521,Passionata,Black,C70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+521,1138,#522,Passionata,Black,C75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+522,1140,#523,Passionata,Black,C80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+523,1142,#524,Passionata,Black,C85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+524,1141,#525,Passionata,Black,C90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+525,1145,#526,Passionata,Black,D65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+526,1148,#527,Passionata,Black,D70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+527,1143,#528,Passionata,Black,D75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+528,1146,#529,Passionata,Black,D80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+529,1147,#530,Passionata,Black,D85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+530,1144,#531,Passionata,Black,D90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+531,1152,#532,Passionata,Black,E65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+532,1151,#533,Passionata,Black,E70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+533,1150,#534,Passionata,Black,E75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+534,1153,#535,Passionata,Black,E80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+535,1149,#536,Passionata,Black,E85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+536,1156,#537,Passionata,Black,F65,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+537,1157,#538,Passionata,Black,F70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+538,1155,#539,Passionata,Black,F75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+539,1158,#540,Passionata,Black,F80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+540,1154,#541,Passionata,Black,F85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+541,1161,#542,Passionata,Black,G85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+542,1159,#543,Passionata,Black,G75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+543,1160,#544,Passionata,Black,G80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+544,1695,#545,Passionata,Orange Yellow,B80,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+545,1697,#546,Passionata,Orange Yellow,B85,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+546,1689,#547,Passionata,Orange Yellow,C75,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+547,1691,#548,Passionata,Orange Yellow,C80,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+548,1698,#549,Passionata,Orange Yellow,C85,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+549,1699,#550,Passionata,Orange Yellow,D70,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+550,1692,#551,Passionata,Orange Yellow,D75,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+551,1690,#552,Passionata,Orange Yellow,D80,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+552,1700,#553,Passionata,Orange Yellow,D85,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+553,1701,#554,Passionata,Orange Yellow,E70,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+554,1702,#555,Passionata,Orange Yellow,E80,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+555,1693,#556,Passionata,Orange Yellow,F70,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+556,1694,#557,Passionata,Orange Yellow,F75,P43H90,3.34E+12,49.95,19.98, Plunge  ,Fashion,Chantelle Group,Low Tier
+557,1354,#558,Passionata,Black,B80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+558,1355,#559,Passionata,Black,B85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+559,1358,#560,Passionata,Black,C70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+560,1359,#561,Passionata,Black,C75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+561,1356,#562,Passionata,Black,C80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+562,1357,#563,Passionata,Black,C85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+563,1362,#564,Passionata,Black,D70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+564,1363,#565,Passionata,Black,D75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+565,1360,#566,Passionata,Black,D80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+566,1361,#567,Passionata,Black,D85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+567,1367,#568,Passionata,Black,E65,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+568,1365,#569,Passionata,Black,E70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+569,1366,#570,Passionata,Black,E75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+570,1364,#571,Passionata,Black,E80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+571,1368,#572,Passionata,Black,F65,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+572,1651,#573,Passionata,Green Blue,B70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+573,1650,#574,Passionata,Green Blue,B75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+574,1643,#575,Passionata,Ivory,B80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+575,1654,#576,Passionata,Green Blue,B80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+576,1641,#577,Passionata,Ivory,B85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+577,1646,#578,Passionata,Ivory,C70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+578,1633,#579,Passionata,Ivory,C75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+579,1653,#580,Passionata,Green Blue,C75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+580,1649,#581,Passionata,Ivory,C80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+581,1632,#582,Passionata,Ivory,C85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+582,1640,#583,Passionata,Ivory,C90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+583,1656,#584,Passionata,Green Blue,C90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+584,1645,#585,Passionata,Ivory,D70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+585,1661,#586,Passionata,Green Blue,D70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+586,1642,#587,Passionata,Ivory,D75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+587,1634,#588,Passionata,Ivory,D80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+588,1659,#589,Passionata,Green Blue,D80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+589,1639,#590,Passionata,Ivory,D85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+590,1648,#591,Passionata,Ivory,D90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+591,1657,#592,Passionata,Green Blue,D90,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+592,1631,#593,Passionata,Ivory,E70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+593,1652,#594,Passionata,Green Blue,E70,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+594,1644,#595,Passionata,Ivory,E75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+595,1658,#596,Passionata,Green Blue,E75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+596,1637,#597,Passionata,Ivory,E80,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+597,1635,#598,Passionata,Ivory,E85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+598,1660,#599,Passionata,Green Blue,E85,P43H90,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+599,1638,#600,Passionata,Ivory,F75,P43H90,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+600,1852,#601,Passionata,Beige,C75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+601,1844,#602,Passionata,Beige,C80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+602,1848,#603,Passionata,Beige,C85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+603,1841,#604,Passionata,Beige,D70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+604,1851,#605,Passionata,Beige,D75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+605,1853,#606,Passionata,Beige,D80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+606,1842,#607,Passionata,Beige,D85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+607,1846,#608,Passionata,Beige,E70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+608,1843,#609,Passionata,Beige,E75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+609,1845,#610,Passionata,Beige,E80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+610,1847,#611,Passionata,Beige,E85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+611,1849,#612,Passionata,Beige,F70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+612,1854,#613,Passionata,Beige,F80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Permanent,Chantelle Group,Low Tier
+613,1836,#614,Passionata,Blue,B80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+614,1837,#615,Passionata,Blue,C70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+615,1835,#616,Passionata,Blue,C75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+616,1839,#617,Passionata,Blue,C80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+617,1838,#618,Passionata,Blue,C85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+618,1829,#619,Passionata,Blue,D70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+619,1830,#620,Passionata,Blue,D75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+620,1831,#621,Passionata,Blue,D85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+621,1828,#622,Passionata,Blue,E70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+622,1825,#623,Passionata,Blue,E75,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+623,1834,#624,Passionata,Blue,E80,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+624,1826,#625,Passionata,Blue,E85,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+625,1833,#626,Passionata,Blue,F70,P47H20,3.34E+12,49.95,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+626,1840,#627,Passionata,Blue,F75,P47H20,3.34E+12,49.45,19.98,Plunge  ,Fashion,Chantelle Group,Low Tier
+627,1177,#628,Playtex,White,C95,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+628,1165,#629,Playtex,Black,C85,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+629,1166,#630,Playtex,Black,C90,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+630,1167,#631,Playtex,Black,C95,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+631,1179,#632,Playtex,White,D80,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+632,1178,#633,Playtex,White,D95,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+633,1170,#634,Playtex,Black,D80,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+634,1168,#635,Playtex,Black,D90,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+635,1169,#636,Playtex,Black,D95,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+636,1182,#637,Playtex,White,E100,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+637,1181,#638,Playtex,White,E90,P5832,3.61E+12,38,14.8,Plunge  ,Permanent,,Low Tier
+638,1180,#639,Playtex,White,E95,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+639,1174,#640,Playtex,Black,E115,P5832,3.61E+12,38,15.2,Plunge  ,Permanent,,Low Tier
+640,1173,#641,Playtex,Black,E85,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+641,1172,#642,Playtex,Black,E90,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+642,1171,#643,Playtex,Black,E95,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+643,1175,#644,Playtex,Black,F80,P5832,3.61E+12,38,14.38,Plunge  ,Permanent,,Low Tier
+644,1130,#645,Playtex,White,C95,P01OA,3.61E+12,36.5,14.2,Full Cup  ,Permanent,,Low Tier
+645,1131,#646,Playtex,White,C100,P01OA,3.61E+12,36.5,14.6,Full Cup  ,Permanent,,Low Tier
+646,1133,#647,Playtex,White,D90,P01OA,3.61E+12,36.5,14.6,Full Cup  ,Permanent,,Low Tier
+647,1134,#648,Playtex,White,D95,P01OA,3.61E+12,36.5,14.6,Full Cup  ,Permanent,,Low Tier
+648,1132,#649,Playtex,White,E80,P01OA,3.61E+12,36.5,14.2,Full Cup  ,Permanent,,Low Tier
+649,1121,#650,Playtex,Black,B90,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+650,1122,#651,Playtex,Black,C85,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+651,1123,#652,Playtex,Black,C90,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+652,1124,#653,Playtex,Black,C95,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+653,1125,#654,Playtex,Black,C100,P01OA,3.61E+12,37,14.38,Full Cup  ,Permanent,,Low Tier
+654,1126,#655,Playtex,Black,D85,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+655,1127,#656,Playtex,Black,D90,P01OA,3.61E+12,37,14.8,Full Cup  ,Permanent,,Low Tier
+656,1128,#657,Playtex,Black,D95,P01OA,3.61E+12,37,14.38,Full Cup  ,Permanent,,Low Tier
+657,1120,#658,Playtex,Black,E85,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+658,1119,#659,Playtex,Black,E95,P01OA,3.61E+12,37,14.2,Full Cup  ,Permanent,,Low Tier
+659,1350,#660,Lisca,Ivory,C80,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+660,811,#661,Lisca,Ivory,C95,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+661,815,#662,Lisca,Ivory,D80,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+662,813,#663,Lisca,Ivory,D90,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+663,814,#664,Lisca,Ivory,E90,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+664,812,#665,Lisca,Ivory,E80,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+665,1351,#666,Lisca,Ivory,E85,20249,3.84E+12,39.9,15.96,Bralette,Permanent,Lisca Group,Low Tier
+666,707,#667,Lisca,White,D85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+667,758,#668,Lisca,White,D90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+668,775,#669,Lisca,Black,C95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+669,776,#670,Lisca,Black,D90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+670,774,#671,Lisca,Black,D95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+671,992,#672,Lisca,White,A90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+672,990,#673,Lisca,White,B90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+673,994,#674,Lisca,White,C90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+674,970,#675,Lisca,Black,A90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+675,969,#676,Lisca,Black,B90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+676,975,#677,Lisca,Black,C90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+677,1008,#678,Lisca,Red,A90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+678,1007,#679,Lisca,Red,B90,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+679,984,#680,Lisca,White,D75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+680,1002,#681,Lisca,White,D80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+681,998,#682,Lisca,White,D85,20230,3.84E+12,41.5,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+682,967,#683,Lisca,Black,D75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+683,983,#684,Lisca,Black,D80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+684,1027,#685,Lisca,Red,D75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+685,1028,#686,Lisca,Red,D80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+686,1029,#687,Lisca,Red,D85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+687,1508,#688,Lisca,Green Blue,A70,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+688,1516,#689,Lisca,Green Blue,A75,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+689,1518,#690,Lisca,Green Blue,A85,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+690,1517,#691,Lisca,Green Blue,A90,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+691,1515,#692,Lisca,Green Blue,B70,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+692,1504,#693,Lisca,Green Blue,B75,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+693,1509,#694,Lisca,Green Blue,B80,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+694,1502,#695,Lisca,Green Blue,B85,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+695,1512,#696,Lisca,Green Blue,B90,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+696,1503,#697,Lisca,Green Blue,C70,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+697,1510,#698,Lisca,Green Blue,C75,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+698,1513,#699,Lisca,Green Blue,C80,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+699,1514,#700,Lisca,Green Blue,C85,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+700,1505,#701,Lisca,Green Blue,C90,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+701,1506,#702,Lisca,Green Blue,D70,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+702,1507,#703,Lisca,Green Blue,D75,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+703,1511,#704,Lisca,Green Blue,D80,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+704,1520,#705,Lisca,Green Blue,D85,20230,3.84E+12,42.9,17.16,Push Up  ,Fashion,Lisca Group,Low Tier
+705,912,#706,Lisca,Red,B90,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+706,914,#707,Lisca,Red,B95,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+707,913,#708,Lisca,Red,B100,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+708,920,#709,Lisca,Red,E100,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+709,911,#710,Lisca,Red,C85,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+710,908,#711,Lisca,Red,C90,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+711,910,#712,Lisca,Red,C95,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+712,909,#713,Lisca,Red,C100,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+713,919,#714,Lisca,Red,D80,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+714,918,#715,Lisca,Red,D85,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+715,915,#716,Lisca,Red,D90,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+716,917,#717,Lisca,Red,D95,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+717,916,#718,Lisca,Red,D100,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+718,923,#719,Lisca,Red,E75,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+719,922,#720,Lisca,Red,E80,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+720,921,#721,Lisca,Red,E85,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+721,924,#722,Lisca,Red,E105,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+722,963,#723,Lisca,Red,E90,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+723,925,#724,Lisca,Red,F85,20226,3.84E+12,42.9,15.96,Full Cup  ,Permanent,Lisca Group,Low Tier
+724,767,#725,Lisca,Black,B80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+725,766,#726,Lisca,Black,B85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+726,765,#727,Lisca,Black,B90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+727,773,#728,Lisca,Black,B95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+728,772,#729,Lisca,Black,B100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+729,764,#730,Lisca,Black,C75,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+730,769,#731,Lisca,Black,C80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+731,768,#732,Lisca,Black,C85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+732,770,#733,Lisca,Black,C90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+733,778,#734,Lisca,Black,C100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+734,777,#735,Lisca,Black,D100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+735,779,#736,Lisca,Red,B90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+736,781,#737,Lisca,Red,B95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+737,780,#738,Lisca,Red,B100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+738,810,#739,Lisca,Red,C75,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+739,785,#740,Lisca,Red,C85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+740,784,#741,Lisca,Red,C95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+741,782,#742,Lisca,Red,C100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+742,786,#743,Lisca,Red,D80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+743,789,#744,Lisca,Red,D85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+744,788,#745,Lisca,Red,D90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+745,801,#746,Lisca,Red,D95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+746,790,#747,Lisca,Red,D100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+747,802,#748,Lisca,Red,E70,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+748,792,#749,Lisca,Red,E75,20228,3.84E+12,42.9,15.96,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+749,797,#750,Lisca,Red,E80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+750,796,#751,Lisca,Red,E85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+751,794,#752,Lisca,Red,E90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+752,795,#753,Lisca,Red,E95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+753,793,#754,Lisca,Red,E100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+754,981,#755,Lisca,Black,A70,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+755,972,#756,Lisca,Black,A75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+756,973,#757,Lisca,Black,A80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+757,978,#758,Lisca,Black,A85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+758,980,#759,Lisca,Black,B75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+759,968,#760,Lisca,Black,B80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+760,977,#761,Lisca,Black,B85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+761,982,#762,Lisca,Black,C70,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+762,974,#763,Lisca,Black,C75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+763,976,#764,Lisca,Black,C80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+764,971,#765,Lisca,Black,C85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+765,1005,#766,Lisca,Red,A70,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+766,1009,#767,Lisca,Red,A75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+767,1013,#768,Lisca,Red,A80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+768,1010,#769,Lisca,Red,A85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+769,1030,#770,Lisca,Red,B75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+770,1004,#771,Lisca,Red,B80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+771,1003,#772,Lisca,Red,B85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+772,1011,#773,Lisca,Red,C75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+773,1012,#774,Lisca,Red,C80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+774,1006,#775,Lisca,Red,C85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+775,757,#776,Lisca,White,B100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+776,763,#777,Lisca,White,C75,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+777,702,#778,Lisca,White,C80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+778,703,#779,Lisca,White,C85,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+779,704,#780,Lisca,White,C90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+780,705,#781,Lisca,White,C95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+781,761,#782,Lisca,White,C100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+782,999,#783,Lisca,White,C100,20230,3.84E+12,41.5,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+783,709,#784,Lisca,White,D75,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+784,706,#785,Lisca,White,D80,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+785,708,#786,Lisca,White,D90,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+786,759,#787,Lisca,White,D95,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+787,760,#788,Lisca,White,D100,20228,3.84E+12,42.9,17.16,Heart Shaped  ,Permanent,Lisca Group,Low Tier
+788,986,#789,Lisca,White,A70,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+789,991,#790,Lisca,White,A75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+790,985,#791,Lisca,White,A80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+791,996,#792,Lisca,White,A85,20230,3.84E+12,41.5,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+792,1000,#793,Lisca,White,B75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+793,988,#794,Lisca,White,B80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+794,987,#795,Lisca,White,B85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+795,1001,#796,Lisca,White,C70,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+796,995,#797,Lisca,White,C75,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+797,989,#798,Lisca,White,C80,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+798,993,#799,Lisca,White,C85,20230,3.84E+12,42.9,17.16,Push Up  ,Permanent,Lisca Group,Low Tier
+799,1535,#800,Lisca,Rose,C80,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+800,1533,#801,Lisca,Rose,C85,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+801,1537,#802,Lisca,Rose,C90,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+802,1538,#803,Lisca,Rose,C95,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+803,1529,#804,Lisca,Rose,D80,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+804,1532,#805,Lisca,Rose,D85,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+805,1536,#806,Lisca,Rose,D90,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+806,1534,#807,Lisca,Rose,D95,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+807,1531,#808,Lisca,Rose,E80,20249,3.84E+12,39.9,15.96,Bralette,Fashion,Lisca Group,Low Tier
+808,485,#809,PrimaDonna,White,D75,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+809,486,#810,PrimaDonna,White,E75,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+810,487,#811,PrimaDonna,White,E80,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+811,488,#812,PrimaDonna,White,C85,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+812,489,#813,PrimaDonna,White,D85,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+813,490,#814,PrimaDonna,White,E85,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+814,491,#815,PrimaDonna,White,C90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+815,492,#816,PrimaDonna,White,D90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+816,493,#817,PrimaDonna,White,E90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+817,509,#818,PrimaDonna,White,C95,163181,5.40E+12,89.9,35.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+818,494,#819,PrimaDonna,White,D95,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+819,495,#820,PrimaDonna,White,E95,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+820,496,#821,PrimaDonna,White,C100,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+821,497,#822,PrimaDonna,White,D100,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+822,498,#823,PrimaDonna,White,E100,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+823,510,#824,PrimaDonna,White,F70,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+824,499,#825,PrimaDonna,White,F75,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+825,500,#826,PrimaDonna,White,G75,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+826,501,#827,PrimaDonna,White,F80,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+827,502,#828,PrimaDonna,White,G80,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+828,503,#829,PrimaDonna,White,F85,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+829,504,#830,PrimaDonna,White,G85,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+830,505,#831,PrimaDonna,White,F90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+831,506,#832,PrimaDonna,White,G90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+832,514,#833,PrimaDonna,White,H90,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+833,508,#834,PrimaDonna,White,G95,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+834,27,#835,Marie Jo LAventure,Yellow,D70,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+835,33,#836,Marie Jo LAventure,Yellow,E70,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+836,28,#837,Marie Jo LAventure,Yellow,B75,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+837,30,#838,Marie Jo LAventure,Yellow,B80,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+838,31,#839,Marie Jo LAventure,Yellow,B85,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+839,32,#840,Marie Jo LAventure,Yellow,B90,120826,5.40E+12,63.95,33.29,Heart Shaped  ,Fashion,Van De Velde Group,Medium Tier
+840,107,#841,PrimaDonna Twist,White,D80,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+841,104,#842,PrimaDonna Twist,White,E80,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+842,118,#843,PrimaDonna Twist,White,G80,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+843,105,#844,PrimaDonna Twist,White,E85,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+844,112,#845,PrimaDonna Twist,White,C95,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+845,109,#846,PrimaDonna Twist,White,D95,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+846,1289,#847,PrimaDonna Twist,White,E75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+847,1291,#848,PrimaDonna Twist,White,F75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+848,1290,#849,PrimaDonna Twist,White,E80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+849,1284,#850,PrimaDonna Twist,White,H80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+850,1288,#851,PrimaDonna Twist,White,C85,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+851,1287,#852,PrimaDonna Twist,White,D90,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+852,1285,#853,PrimaDonna Twist,White,C95,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+853,395,#854,PrimaDonna Twist,Rose,E65,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+854,384,#855,PrimaDonna Twist,Rose,H75,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+855,1294,#856,PrimaDonna,Green,D80,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+856,1302,#857,PrimaDonna,Green,E80,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+857,1292,#858,PrimaDonna,Green,C85,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+858,1298,#859,PrimaDonna,Green,D85,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+859,1301,#860,PrimaDonna,Green,E85,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+860,1296,#861,PrimaDonna,Green,D90,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+861,1303,#862,PrimaDonna,Green,E90,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+862,1293,#863,PrimaDonna,Green,C95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+863,1297,#864,PrimaDonna,Green,D95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+864,1300,#865,PrimaDonna,Green,E95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+865,1318,#866,PrimaDonna,Green,C100,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+866,1295,#867,PrimaDonna,Green,D100,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+867,1299,#868,PrimaDonna,Green,E100,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+868,1308,#869,PrimaDonna,Green,F75,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+869,1314,#870,PrimaDonna,Green,G75,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+870,1306,#871,PrimaDonna,Green,F80,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+871,1309,#872,PrimaDonna,Green,G80,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+872,1305,#873,PrimaDonna,Green,F85,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+873,1312,#874,PrimaDonna,Green,G85,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+874,1304,#875,PrimaDonna,Green,F90,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+875,1310,#876,PrimaDonna,Green,G90,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+876,507,#877,PrimaDonna,White,F95,163181,5.40E+12,89.9,37.46,Full Cup  ,Permanent,Van De Velde Group,High Tier
+877,1307,#878,PrimaDonna,Green,F95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+878,1311,#879,PrimaDonna,Green,G95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+879,1313,#880,PrimaDonna,Green,H95,163181,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+880,151,#881,PrimaDonna,Beige,E75,162121,5.40E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+881,149,#882,PrimaDonna,Taupe,D85,162121,5.40E+12,86.9,34.76,Full Cup  ,Fashion,Van De Velde Group,High Tier
+882,154,#883,PrimaDonna,Beige,C90,162121,5.40E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+883,150,#884,PrimaDonna,Beige,D90,162121,5.40E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+884,153,#885,PrimaDonna,Beige,I80,162121,5.40E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+885,155,#886,PrimaDonna,Beige,F95,162121,5.40E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+886,152,#887,PrimaDonna,Beige,G95,162121,5.40E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+887,548,#888,PrimaDonna Twist,Black,E75,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+888,550,#889,PrimaDonna Twist,Black,D80,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+889,534,#890,PrimaDonna Twist,Black,E80,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+890,546,#891,PrimaDonna Twist,Black,H80,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+891,549,#892,PrimaDonna Twist,Black,D85,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+892,535,#893,PrimaDonna Twist,Black,E85,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+893,536,#894,PrimaDonna Twist,Black,F85,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+894,545,#895,PrimaDonna Twist,Black,G85,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+895,543,#896,PrimaDonna Twist,Black,H85,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+896,533,#897,PrimaDonna Twist,Black,C90,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+897,537,#898,PrimaDonna Twist,Black,D90,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+898,541,#899,PrimaDonna Twist,Black,E90,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+899,540,#900,PrimaDonna Twist,Black,F90,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+900,547,#901,PrimaDonna Twist,Black,G90,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+901,542,#902,PrimaDonna Twist,Black,C95,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+902,539,#903,PrimaDonna Twist,Black,D95,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+903,551,#904,PrimaDonna Twist,Black,F95,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+904,544,#905,PrimaDonna Twist,Black,D100,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+905,532,#906,PrimaDonna Twist,Black,E100,141970,5.40E+12,79.9,31.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+906,561,#907,PrimaDonna Twist,Black,D70,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+907,555,#908,PrimaDonna Twist,Black,E70,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+908,567,#909,PrimaDonna Twist,Black,F70,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+909,571,#910,PrimaDonna Twist,Black,G70,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+910,560,#911,PrimaDonna Twist,Black,D75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+911,554,#912,PrimaDonna Twist,Black,E75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+912,566,#913,PrimaDonna Twist,Black,F75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+913,570,#914,PrimaDonna Twist,Black,G75,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+914,576,#915,PrimaDonna Twist,Black,C80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+915,563,#916,PrimaDonna Twist,Black,D80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+916,557,#917,PrimaDonna Twist,Black,E80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+917,569,#918,PrimaDonna Twist,Black,F80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+918,573,#919,PrimaDonna Twist,Black,G80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+919,575,#920,PrimaDonna Twist,Black,H80,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+920,562,#921,PrimaDonna Twist,Black,D85,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+921,556,#922,PrimaDonna Twist,Black,E85,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+922,568,#923,PrimaDonna Twist,Black,F85,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+923,572,#924,PrimaDonna Twist,Black,G85,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+924,559,#925,PrimaDonna Twist,Black,D90,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+925,553,#926,PrimaDonna Twist,Black,E90,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+926,565,#927,PrimaDonna Twist,Black,F90,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+927,574,#928,PrimaDonna Twist,Black,C95,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+928,564,#929,PrimaDonna Twist,Black,D95,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+929,558,#930,PrimaDonna Twist,Black,E95,241972,5.40E+12,79.9,31.96,Balconette  ,Permanent,Van De Velde Group,High Tier
+930,244,#931,PrimaDonna,Ivory,C90,161811,5.40E+12,99.9,39.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+931,283,#932,PrimaDonna,Black,D115,161811,5.40E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+932,256,#933,PrimaDonna,Beige,B105,161811,5.40E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+933,1252,#934,Marie Jo,Blue,B75,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+934,1258,#935,Marie Jo,Blue,C75,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+935,1261,#936,Marie Jo,Blue,D75,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+936,1253,#937,Marie Jo,Blue,B80,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+937,1259,#938,Marie Jo,Blue,C80,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+938,1263,#939,Marie Jo,Blue,D80,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+939,1251,#940,Marie Jo,Blue,A85,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+940,1254,#941,Marie Jo,Blue,B85,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+941,1256,#942,Marie Jo,Blue,C85,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+942,1262,#943,Marie Jo,Blue,D85,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+943,1255,#944,Marie Jo,Blue,B90,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+944,1257,#945,Marie Jo,Blue,C90,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+945,1260,#946,Marie Jo,Blue,D90,100416,5.40E+12,89.9,35.96,Heart Shaped  ,Fashion,Van De Velde Group,High Tier
+946,1274,#947,Marie Jo,Black,D70,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+947,1280,#948,Marie Jo,Black,E70,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+948,1268,#949,Marie Jo,Black,B75,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+949,1271,#950,Marie Jo,Black,C75,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+950,1273,#951,Marie Jo,Black,D75,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+951,1278,#952,Marie Jo,Black,E75,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+952,1267,#953,Marie Jo,Black,B80,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+953,1272,#954,Marie Jo,Black,C80,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+954,1275,#955,Marie Jo,Black,D80,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+955,1279,#956,Marie Jo,Black,E80,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+956,1266,#957,Marie Jo,Black,B85,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+957,1269,#958,Marie Jo,Black,C85,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+958,1277,#959,Marie Jo,Black,D85,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+959,1281,#960,Marie Jo,Black,E85,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+960,1270,#961,Marie Jo,Black,C90,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+961,1276,#962,Marie Jo,Black,D90,102576,5.40E+12,99.9,39.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+962,25,#963,Marie Jo,Ivory,B80,101337,5.40E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+963,11,#964,Marie Jo,Red,D85,100416,5.40E+12,86.9,35.4,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+964,1566,#965,PrimaDonna,Multicolor,B100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+965,1570,#966,PrimaDonna,Multicolor,D80,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+966,1572,#967,PrimaDonna,Multicolor,C85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+967,1563,#968,PrimaDonna,Multicolor,D85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+968,1556,#969,PrimaDonna,Multicolor,E85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+969,1565,#970,PrimaDonna,Multicolor,D90,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+970,1561,#971,PrimaDonna,Multicolor,E90,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+971,1560,#972,PrimaDonna,Multicolor,D95,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+972,1555,#973,PrimaDonna,Multicolor,E95,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+973,1567,#974,PrimaDonna,Multicolor,C100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+974,1564,#975,PrimaDonna,Multicolor,D100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+975,1552,#976,PrimaDonna,Multicolor,E100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+976,1568,#977,PrimaDonna,Multicolor,F75,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+977,1553,#978,PrimaDonna,Multicolor,G80,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+978,1554,#979,PrimaDonna,Multicolor,F80,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+979,1574,#980,PrimaDonna,Multicolor,F85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+980,1557,#981,PrimaDonna,Multicolor,G85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+981,1559,#982,PrimaDonna,Multicolor,H85,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+982,1558,#983,PrimaDonna,Multicolor,F90,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+983,1550,#984,PrimaDonna,Multicolor,G90,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+984,1549,#985,PrimaDonna,Multicolor,H90,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+985,1562,#986,PrimaDonna,Multicolor,F95,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+986,1551,#987,PrimaDonna,Multicolor,G95,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+987,1571,#988,PrimaDonna,Multicolor,F100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+988,1569,#989,PrimaDonna,Multicolor,H100,162121,5.40E+12,89.9,35.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+989,1483,#990,PrimaDonna,Red,E70,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+990,1482,#991,PrimaDonna,Red,D80,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+991,1479,#992,PrimaDonna,Red,D90,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+992,1480,#993,PrimaDonna,Red,E90,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+993,1481,#994,PrimaDonna,Red,E95,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+994,1478,#995,PrimaDonna,Red,D105,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+995,1477,#996,PrimaDonna,Red,D110,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+996,1476,#997,PrimaDonna,Red,E110,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+997,1468,#998,PrimaDonna,Red,G80,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+998,1471,#999,PrimaDonna,Red,H80,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+999,1461,#1000,PrimaDonna,Red,F85,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1000,1467,#1001,PrimaDonna,Red,G85,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1001,1470,#1002,PrimaDonna,Red,H85,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1002,1464,#1003,PrimaDonna,Red,F90,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1003,1463,#1004,PrimaDonna,Red,G90,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1004,1460,#1005,PrimaDonna,Red,H90,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1005,259,#1006,PrimaDonna,Beige,F95,161811,5.40E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1006,1466,#1007,PrimaDonna,Red,F95,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1007,1462,#1008,PrimaDonna,Red,G95,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1008,1473,#1009,PrimaDonna,Red,H95,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1009,1465,#1010,PrimaDonna,Red,F100,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1010,1469,#1011,PrimaDonna,Red,G100,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1011,1472,#1012,PrimaDonna,Red,H100,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1012,1475,#1013,PrimaDonna,Red,F110,161811,5.40E+12,99.9,41.63,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1013,93,#1014,PrimaDonna Twist,Rose,E75,141970,5.40E+12,79.9,33.29,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1014,96,#1015,PrimaDonna Twist,Rose,F75,141970,5.40E+12,79.9,33.29,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1015,85,#1016,PrimaDonna Twist,Rose,C80,141970,5.40E+12,79.9,33.29,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1016,102,#1017,PrimaDonna Twist,Rose,F80,141970,5.40E+12,79.9,33.29,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1017,91,#1018,PrimaDonna Twist,Rose,C85,141970,5.40E+12,79.9,33.29,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1018,86,#1019,PrimaDonna Twist,Rose,D85,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1019,94,#1020,PrimaDonna Twist,Rose,E85,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1020,100,#1021,PrimaDonna Twist,Rose,F85,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1021,98,#1022,PrimaDonna Twist,Rose,G85,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1022,97,#1023,PrimaDonna Twist,Rose,H85,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1023,89,#1024,PrimaDonna Twist,Rose,C100,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1024,103,#1025,PrimaDonna Twist,Rose,C90,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1025,90,#1026,PrimaDonna Twist,Rose,D90,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1026,88,#1027,PrimaDonna Twist,Rose,E90,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1027,92,#1028,PrimaDonna Twist,Rose,C95,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1028,95,#1029,PrimaDonna Twist,Rose,D95,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1029,101,#1030,PrimaDonna Twist,Rose,E95,141970,5.40E+12,79.9,31.96,Full Cup  ,Fashion,Van De Velde Group,High Tier
+1030,117,#1031,PrimaDonna Twist,White,F95,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1031,393,#1032,PrimaDonna Twist,Rose,D70,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1032,387,#1033,PrimaDonna Twist,Rose,E70,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1033,388,#1034,PrimaDonna Twist,Rose,F70,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1034,392,#1035,PrimaDonna Twist,Rose,C75,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1035,394,#1036,PrimaDonna Twist,Rose,D75,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1036,378,#1037,PrimaDonna Twist,Rose,E75,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1037,386,#1038,PrimaDonna Twist,Rose,C80,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1038,379,#1039,PrimaDonna Twist,Rose,D80,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1039,391,#1040,PrimaDonna Twist,Rose,E80,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1040,380,#1041,PrimaDonna Twist,Rose,C85,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1041,389,#1042,PrimaDonna Twist,Rose,D85,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1042,390,#1043,PrimaDonna Twist,Rose,E85,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1043,381,#1044,PrimaDonna Twist,Rose,C90,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1044,385,#1045,PrimaDonna Twist,Rose,D90,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1045,397,#1046,PrimaDonna Twist,Rose,F90,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1046,382,#1047,PrimaDonna Twist,Rose,C95,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1047,383,#1048,PrimaDonna Twist,Rose,D95,241972,5.40E+12,79.9,33.29,Balconette  ,Fashion,Van De Velde Group,High Tier
+1048,1452,#1049,PrimaDonna Twist,Red,D70,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1049,1443,#1050,PrimaDonna Twist,Red,E70,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1050,1450,#1051,PrimaDonna Twist,Red,F70,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1051,1456,#1052,PrimaDonna Twist,Red,C75,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1052,1447,#1053,PrimaDonna Twist,Red,D75,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1053,1440,#1054,PrimaDonna Twist,Red,E75,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1054,1449,#1055,PrimaDonna Twist,Red,F75,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1055,1455,#1056,PrimaDonna Twist,Red,D80,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1056,1444,#1057,PrimaDonna Twist,Red,E80,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1057,1442,#1058,PrimaDonna Twist,Red,F80,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1058,1459,#1059,PrimaDonna Twist,Red,G80,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1059,1437,#1060,PrimaDonna Twist,Red,C85,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1060,1446,#1061,PrimaDonna Twist,Red,D85,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1061,1438,#1062,PrimaDonna Twist,Red,E85,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1062,1454,#1063,PrimaDonna Twist,Red,F85,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1063,1453,#1064,PrimaDonna Twist,Red,C90,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1064,1448,#1065,PrimaDonna Twist,Red,D90,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1065,1441,#1066,PrimaDonna Twist,Red,E90,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1066,1439,#1067,PrimaDonna Twist,Red,F90,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1067,1451,#1068,PrimaDonna Twist,Red,C95,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1068,1457,#1069,PrimaDonna Twist,Red,D95,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1069,1445,#1070,PrimaDonna Twist,Red,E95,241882,5.40E+12,89.9,37.46,Balconette  ,Permanent,Van De Velde Group,High Tier
+1070,1548,#1071,PrimaDonna Twist,Red Orange,D70,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1071,1546,#1072,PrimaDonna Twist,Red Orange,D75,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1072,1542,#1073,PrimaDonna Twist,Red Orange,F75,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1073,1539,#1074,PrimaDonna Twist,Red Orange,D80,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1074,1540,#1075,PrimaDonna Twist,Red Orange,E80,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1075,1541,#1076,PrimaDonna Twist,Red Orange,D85,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1076,1544,#1077,PrimaDonna Twist,Red Orange,E85,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1077,1543,#1078,PrimaDonna Twist,Red Orange,E90,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1078,1545,#1079,PrimaDonna Twist,Red Orange,D95,242092,5.40E+12,89.9,37.46,Balconette  ,Fashion,Van De Velde Group,High Tier
+1079,457,#1080,Marie Jo,Ivory,C75,100416,5.40E+12,87,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1080,449,#1081,Marie Jo,Ivory,D80,100416,5.40E+12,89.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1081,458,#1082,Marie Jo,Ivory,C90,100416,5.40E+12,89.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1082,120,#1083,PrimaDonna Twist,White,G75,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1083,108,#1084,PrimaDonna Twist,White,D85,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1084,115,#1085,PrimaDonna Twist,White,F85,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1085,119,#1086,PrimaDonna Twist,White,G85,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1086,111,#1087,PrimaDonna Twist,White,C90,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1087,116,#1088,PrimaDonna Twist,White,F90,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1088,113,#1089,PrimaDonna Twist,White,C100,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1089,110,#1090,PrimaDonna Twist,White,D100,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1090,106,#1091,PrimaDonna Twist,White,E100,141970,5.40E+12,79.9,33.29,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1091,242,#1092,PrimaDonna,Ivory,C75,161811,5.41E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1092,226,#1093,PrimaDonna,Ivory,E80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1093,223,#1094,PrimaDonna,Ivory,C85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1094,227,#1095,PrimaDonna,Ivory,E85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1095,228,#1096,PrimaDonna,Ivory,B90,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1096,243,#1097,PrimaDonna,Ivory,D90,161811,5.41E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1097,245,#1098,PrimaDonna,Ivory,E90,162121,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1098,224,#1099,PrimaDonna,Ivory,C95,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1099,225,#1100,PrimaDonna,Ivory,C100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1100,232,#1101,PrimaDonna,Ivory,F70,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1101,229,#1102,PrimaDonna,Ivory,F75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1102,233,#1103,PrimaDonna,Ivory,G75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1103,236,#1104,PrimaDonna,Ivory,H75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1104,234,#1105,PrimaDonna,Ivory,G80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1105,231,#1106,PrimaDonna,Ivory,F90,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1106,237,#1107,PrimaDonna,Ivory,H90,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1107,238,#1108,PrimaDonna,Ivory,H100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1108,12,#1109,Marie Jo,White,B75,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1109,14,#1110,Marie Jo,White,E75,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1110,13,#1111,Marie Jo,White,B80,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1111,15,#1112,Marie Jo,White,E80,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1112,17,#1113,Marie Jo,White,B85,100416,5.41E+12,86.9,34.76,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1113,188,#1114,Marie Jo,Black,A70,100416,5.41E+12,94.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1114,191,#1115,Marie Jo,Black,E70,100416,5.41E+12,94.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1115,189,#1116,Marie Jo,Black,A75,100416,5.41E+12,94.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1116,200,#1117,Marie Jo,Black,D75,100416,5.41E+12,94.9,34.76,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1117,190,#1118,Marie Jo,Black,A80,100416,5.41E+12,94.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1118,198,#1119,Marie Jo,Black,C80,100416,5.41E+12,94.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1119,195,#1120,Marie Jo,Black,D80,100416,5.41E+12,94.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1120,193,#1121,Marie Jo,Black,E80,100416,5.41E+12,94.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1121,203,#1122,Marie Jo,Black,B85,100416,5.41E+12,94.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1122,443,#1123,Marie Jo,Ivory,A70,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1123,444,#1124,Marie Jo,Ivory,B70,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1124,445,#1125,Marie Jo,Ivory,D70,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1125,446,#1126,Marie Jo,Ivory,E70,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1126,447,#1127,Marie Jo,Ivory,B75,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1127,448,#1128,Marie Jo,Ivory,E75,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1128,450,#1129,Marie Jo,Ivory,E80,100416,5.41E+12,86.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1129,455,#1130,Marie Jo,Ivory,B85,100416,5.41E+12,86.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1130,454,#1131,Marie Jo,Ivory,C85,100416,5.41E+12,86.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1131,0,#1132,Marie Jo,Red,E70,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1132,1,#1133,Marie Jo,Red,C75,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1133,9,#1134,Marie Jo,Red,B80,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1134,2,#1135,Marie Jo,Red,C80,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1135,3,#1136,Marie Jo,Red,B85,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1136,4,#1137,Marie Jo,Red,C85,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1137,260,#1138,PrimaDonna,Black,D70,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1138,264,#1139,PrimaDonna,Black,E70,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1139,280,#1140,PrimaDonna,Black,C75,161811,5.41E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1140,261,#1141,PrimaDonna,Black,D75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1141,270,#1142,PrimaDonna,Black,B80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1142,268,#1143,PrimaDonna,Black,C80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1143,266,#1144,PrimaDonna,Black,E80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1144,262,#1145,PrimaDonna,Black,D85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1145,267,#1146,PrimaDonna,Black,E85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1146,281,#1147,PrimaDonna,Black,C90,161811,5.41E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1147,282,#1148,PrimaDonna,Black,C95,161811,5.41E+12,99.9,37.96,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1148,271,#1149,PrimaDonna,Black,H70,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1149,275,#1150,PrimaDonna,Black,G80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1150,272,#1151,PrimaDonna,Black,H80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1151,285,#1152,PrimaDonna,Black,H90,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1152,276,#1153,PrimaDonna,Black,G100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1153,273,#1154,PrimaDonna,Black,H100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1154,274,#1155,PrimaDonna,Black,H65,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1155,269,#1156,PrimaDonna,Black,C105,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1156,247,#1157,PrimaDonna,Beige,D75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1157,248,#1158,PrimaDonna,Beige,B100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1158,249,#1159,PrimaDonna,Beige,F70,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1159,250,#1160,PrimaDonna,Beige,F75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1160,251,#1161,PrimaDonna,Beige,H75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1161,252,#1162,PrimaDonna,Beige,H85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1162,253,#1163,PrimaDonna,Beige,F100,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1163,16,#1164,Marie Jo,White,D90,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1164,451,#1165,Marie Jo,Ivory,B90,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1165,452,#1166,Marie Jo,Ivory,D90,100416,5.41E+12,86.9,25.2,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1166,201,#1167,Marie Jo,Black,B90,100416,5.41E+12,94.9,34.76,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1167,277,#1168,PrimaDonna,Black,F105,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1168,235,#1169,PrimaDonna,Ivory,G105,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1169,239,#1170,PrimaDonna,Ivory,H105,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1170,453,#1171,Marie Jo,Ivory,D65,100416,5.41E+12,86.9,36.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1171,286,#1172,PrimaDonna,Ivory,D70,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1172,288,#1173,PrimaDonna,Ivory,C75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1173,287,#1174,PrimaDonna,Ivory,D75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1174,289,#1175,PrimaDonna,Ivory,C90,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1175,299,#1176,PrimaDonna,Ivory,D90,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1176,298,#1177,PrimaDonna,Ivory,D95,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1177,290,#1178,PrimaDonna,Ivory,E95,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1178,142,#1179,PrimaDonna,Beige,E70,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1179,143,#1180,PrimaDonna,Beige,C75,162121,5.41E+12,86.9,19.98,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1180,144,#1181,PrimaDonna,Beige,D80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1181,291,#1182,PrimaDonna,Ivory,G75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1182,293,#1183,PrimaDonna,Ivory,H75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1183,301,#1184,PrimaDonna,Ivory,F80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1184,294,#1185,PrimaDonna,Ivory,H80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1185,296,#1186,PrimaDonna,Ivory,F85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1186,292,#1187,PrimaDonna,Ivory,G85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1187,295,#1188,PrimaDonna,Ivory,F95,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1188,145,#1189,PrimaDonna,Beige,F75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1189,146,#1190,PrimaDonna,Beige,F85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1190,147,#1191,PrimaDonna,Beige,G85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1191,148,#1192,PrimaDonna,Beige,G100,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1192,36,#1193,Marie Jo LAventure,Beige,C70,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1193,37,#1194,Marie Jo LAventure,Beige,E70,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1194,38,#1195,Marie Jo LAventure,Beige,A75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1195,39,#1196,Marie Jo LAventure,Beige,B75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1196,40,#1197,Marie Jo LAventure,Beige,C75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1197,49,#1198,Marie Jo LAventure,Beige,D75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1198,41,#1199,Marie Jo LAventure,Beige,B80,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1199,42,#1200,Marie Jo LAventure,Beige,D80,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1200,43,#1201,Marie Jo LAventure,Beige,B85,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1201,44,#1202,Marie Jo LAventure,Beige,D85,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1202,45,#1203,Marie Jo LAventure,Beige,E85,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1203,1197,#1204,Marie Jo LAventure,Ivory,B75,120826,5.41E+12,74.9,31.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1204,1192,#1205,Marie Jo LAventure,Ivory,D75,120826,5.41E+12,74.9,22.4,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1205,1195,#1206,Marie Jo LAventure,Ivory,F75,120826,5.41E+12,79.9,22.4,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1206,66,#1207,Marie Jo LAventure,White,D70,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1207,67,#1208,Marie Jo LAventure,White,B75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1208,71,#1209,Marie Jo LAventure,White,D75,120826,5.41E+12,74.9,29.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1209,68,#1210,Marie Jo LAventure,White,E75,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1210,70,#1211,Marie Jo LAventure,White,B80,120826,5.41E+12,74.9,29.96,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1211,69,#1212,Marie Jo LAventure,White,F80,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1212,297,#1213,PrimaDonna,Ivory,B85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1213,459,#1214,PrimaDonna,Black,C75,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1214,461,#1215,PrimaDonna,Black,D75,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1215,462,#1216,PrimaDonna,Black,D80,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1216,466,#1217,PrimaDonna,Black,E80,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1217,463,#1218,PrimaDonna,Black,D85,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1218,467,#1219,PrimaDonna,Black,E85,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1219,468,#1220,PrimaDonna,Black,B90,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1220,464,#1221,PrimaDonna,Black,D95,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1221,460,#1222,PrimaDonna,Black,C100,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1222,465,#1223,PrimaDonna,Black,D100,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1223,469,#1224,PrimaDonna,Black,G70,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1224,470,#1225,PrimaDonna,Black,F75,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1225,471,#1226,PrimaDonna,Black,F80,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1226,472,#1227,PrimaDonna,Black,F85,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1227,482,#1228,PrimaDonna,Black,G90,162121,5.41E+12,89.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1228,473,#1229,PrimaDonna,Black,F95,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1229,483,#1230,PrimaDonna,Black,G95,162121,5.41E+12,89.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1230,474,#1231,PrimaDonna,Black,F100,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1231,477,#1232,PrimaDonna,Black,H100,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1232,475,#1233,PrimaDonna,Black,F105,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1233,478,#1234,PrimaDonna,Black,H105,162121,5.41E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1234,5,#1235,Marie Jo,Red,E65,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1235,6,#1236,Marie Jo,Red,C90,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1236,8,#1237,Marie Jo,Red,D90,100416,5.41E+12,84.9,35.38,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1237,303,#1238,PrimaDonna,Red,C75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1238,304,#1239,PrimaDonna,Red,C80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1239,305,#1240,PrimaDonna,Red,C85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1240,307,#1241,PrimaDonna,Red,D85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1241,325,#1242,PrimaDonna,Red,C100,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1242,308,#1243,PrimaDonna,Red,D100,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1243,326,#1244,PrimaDonna,Red,E100,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1244,312,#1245,PrimaDonna,Red,G70,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1245,329,#1246,PrimaDonna,Red,G75,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1246,327,#1247,PrimaDonna,Red,F80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1247,309,#1248,PrimaDonna,Red,G80,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1248,310,#1249,PrimaDonna,Red,G85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1249,314,#1250,PrimaDonna,Red,H85,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1250,323,#1251,PrimaDonna,Red,G90,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1251,316,#1252,PrimaDonna,Red,H90,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1252,318,#1253,PrimaDonna,Red,F95,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1253,324,#1254,PrimaDonna,Red,G95,162121,5.41E+12,86.9,34.76,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1254,311,#1255,PrimaDonna,Red,G100,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1255,315,#1256,PrimaDonna,Red,H100,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1256,319,#1257,PrimaDonna,Red,F105,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1257,313,#1258,PrimaDonna,Red,G105,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1258,317,#1259,PrimaDonna,Red,H105,162121,5.41E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1259,19,#1260,Marie Jo,Ivory,C70,101337,5.41E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+1260,20,#1261,Marie Jo,Ivory,A75,101337,5.41E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+1261,21,#1262,Marie Jo,Ivory,B75,101337,5.41E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+1262,24,#1263,Marie Jo,Ivory,C75,101337,5.41E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+1263,22,#1264,Marie Jo,Ivory,A80,101337,5.41E+12,94.9,39.54,Push Up  ,Permanent,Van De Velde Group,High Tier
+1264,208,#1265,Marie Jo,Black,C70,101337,5.41E+12,94.9,37.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+1265,204,#1266,Marie Jo,Black,E70,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1266,206,#1267,Marie Jo,Black,B75,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1267,207,#1268,Marie Jo,Black,C75,101337,5.41E+12,94.9,37.96,Plunge  ,Permanent,Van De Velde Group,High Tier
+1268,205,#1269,Marie Jo,Black,E75,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1269,211,#1270,Marie Jo,Black,B80,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1270,212,#1271,Marie Jo,Black,E80,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1271,209,#1272,Marie Jo,Black,A70,101337,5.41E+12,94.9,39.54,Plunge  ,Permanent,Van De Velde Group,High Tier
+1272,254,#1273,PrimaDonna,Beige,I75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1273,255,#1274,PrimaDonna,Beige,I85,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1274,240,#1275,PrimaDonna,Ivory,I80,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1275,278,#1276,PrimaDonna,Black,I75,161811,5.41E+12,99.9,39.54,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1276,46,#1277,Marie Jo LAventure,Beige,D90,120826,5.41E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1277,157,#1278,PrimaDonna,White,C85,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1278,158,#1279,PrimaDonna,White,D90,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1279,159,#1280,PrimaDonna,White,E95,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1280,160,#1281,PrimaDonna,White,F85,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1281,161,#1282,PrimaDonna,White,F100,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1282,480,#1283,PrimaDonna,Black,I90,162121,5.42E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1283,481,#1284,PrimaDonna,Black,I100,162121,5.42E+12,89.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1284,320,#1285,PrimaDonna,Red,I75,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1285,321,#1286,PrimaDonna,Red,I80,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1286,322,#1287,PrimaDonna,Red,I90,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1287,162,#1288,PrimaDonna,White,I90,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1288,163,#1289,PrimaDonna,White,I95,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1289,164,#1290,PrimaDonna,White,B95,162121,5.42E+12,86.9,36.21,Full Cup  ,Permanent,Van De Velde Group,High Tier
+1290,1193,#1291,Marie Jo LAventure,Ivory,E65,120826,5.42E+12,79.9,23.8,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1291,59,#1292,Marie Jo LAventure,Red,C70,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1292,50,#1293,Marie Jo LAventure,Red,E70,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1293,51,#1294,Marie Jo LAventure,Red,B75,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1294,62,#1295,Marie Jo LAventure,Red,D75,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1295,52,#1296,Marie Jo LAventure,Red,F75,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1296,53,#1297,Marie Jo LAventure,Red,A80,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1297,63,#1298,Marie Jo LAventure,Red,C80,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1298,54,#1299,Marie Jo LAventure,Red,D80,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1299,64,#1300,Marie Jo LAventure,Red,E80,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1300,65,#1301,Marie Jo LAventure,Red,B85,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1301,61,#1302,Marie Jo LAventure,Red,C85,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
+1302,55,#1303,Marie Jo LAventure,Red,D85,120826,5.42E+12,74.9,31.21,Heart Shaped  ,Permanent,Van De Velde Group,High Tier
